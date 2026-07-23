@@ -3,7 +3,7 @@
 // Torn Souls GC
 // script.js (Part 1)
 // =======================================
-alert("Script is running!");
+
 
 // ---------- Firebase Imports ----------
 
